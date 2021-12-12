@@ -36,6 +36,27 @@ const DUMMYEXPENSES = [
     date: new Date(2019,1,1),
 
   },
+  {
+    id: 'e6',
+    title: 'Hawaijahaz',
+    amount: 666, 
+    date: new Date(2019,1,1),
+
+  },
+  {
+    id: 'e7',
+    title: 'Jet',
+    amount: 696, 
+    date: new Date(2021,1,1),
+
+  },
+  {
+    id: 'e8',
+    title: 'Helicopter',
+    amount: 777, 
+    date: new Date(2020,1,1),
+
+  },
 ];
 
 const App = () => {
